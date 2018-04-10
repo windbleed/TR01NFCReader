@@ -1,0 +1,7 @@
+E:\works\TR01NFCReader\NFCReader\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\works\TR01NFCReader\NFCReader\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\works\TR01NFCReader\NFCReader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.NFC_Test.resources
+E:\works\TR01NFCReader\NFCReader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\works\TR01NFCReader\NFCReader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\works\TR01NFCReader\NFCReader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\works\TR01NFCReader\NFCReader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
